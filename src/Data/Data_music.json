@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React Fundamentals",
+      "slug": "react-fundamentals",
+      "description": "Learn the basics of React, including components, state, and props.",
+      "price": 129.99,
+      "instructor": "Michael Lewis",
+      "isfeatured": true,
+      "image": "https://d31ezp3r8jwmks.cloudfront.net/nr9p5isqq3yn41tqrh1tr4lttr1v"
+    },
+    {
+      "id": "2",
+      "title": "Advanced React",
+      "slug": "advanced-react",
+      "description": "Dive deeper into React with advanced concepts like hooks, context, and performance optimization.",
+      "price": 179.99,
+      "instructor": "Emily White",
+      "isfeatured": true,
+      "image": "https://th.bing.com/th/id/OIP._ijnRs6XuPilrj3m65oAtwHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "3",
+      "title": "Node.js Basics",
+      "slug": "nodejs-basics",
+      "description": "Introduction to Node.js, including modules, asynchronous programming, and building simple servers.",
+      "price": 139.99,
+      "instructor": "James Clark",
+      "isfeatured": true,
+      "image": "https://th.bing.com/th/id/OIP.xx21kWyOtOcmnH9i1f6VHAHaEI?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "4",
+      "title": "Building RESTful APIs with Node.js",
+      "slug": "restful-apis-nodejs",
+      "description": "Learn how to design and build RESTful APIs using Node.js and Express.",
+      "price": 149.99,
+      "instructor": "Sarah Johnson",
+      "isfeatured": true,
+      "image": "https://th.bing.com/th/id/R.1c76f48da01627e06d961821fee3a714?rik=s581SLtQd4wOzg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Development with React and Node.js",
+      "slug": "full-stack-react-nodejs",
+      "description": "A comprehensive course on building full-stack applications with React and Node.js.",
+      "price": 229.99,
+      "instructor": "Anna Taylor",
+      "isfeatured": true,
+      "image":"https://th.bing.com/th/id/OIP.GKYQYSdONPRVEUeU6jENUgHaEK?rs=1&pid=ImgDetMain" 
+       },
+    {
+      "id": "6",
+      "title": "React Native Essentials",
+      "slug": "react-native-essentials",
+      "description": "Get started with React Native and learn to build mobile applications for iOS and Android.",
+      "price": 159.99,
+      "instructor": "Lucas Moore",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1590487697221-ef24d6c3a5fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHJlYWN0X25hdGl2ZXxlbnwwfHx8fDE2NjI3MjA5OQ&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "7",
+      "title": "Server-Side Development with Node.js",
+      "slug": "server-side-nodejs",
+      "description": "Learn server-side programming and build scalable applications with Node.js.",
+      "price": 139.99,
+      "instructor": "Sophia Adams",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1548873681-f1b5b2d66d6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vZGVfZGV2ZWxvcG1lbnR8ZW59fDF8fDE2NjI3MjA5OQ&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "8",
+      "title": "Modern JavaScript with ES6+",
+      "slug": "modern-javascript-es6",
+      "description": "Master modern JavaScript features and syntax improvements introduced in ES6 and beyond.",
+      "price": 119.99,
+      "instructor": "Oliver Harris",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1581090398467-464048b5699d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG1vZGVybn9qYXZhc2NyaXB0fGVufDF8fDE2NjI3MjA5OQ&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "9",
+      "title": "GraphQL with React",
+      "slug": "graphql-react",
+      "description": "Learn to integrate GraphQL with React for efficient data fetching and management.",
+      "price": 149.99,
+      "instructor": "Ethan Young",
+      "isfeatured": true,
+      "image": "https://th.bing.com/th/id/OIP.TaOc-bijuotr3WkjZGBu1wHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "10",
+      "title": "Testing React Applications",
+      "slug": "testing-react",
+      "description": "Discover best practices and tools for testing React applications to ensure quality and reliability.",
+      "price": 139.99,
+      "instructor": "Liam Johnson",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1597233881610-3294bb0ed1eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHRlc3RpbmdfcmVhY3Q&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "11",
+      "title": "Node.js for Beginners",
+      "slug": "nodejs-for-beginners",
+      "description": "A beginner's course on Node.js, including setup, basic concepts, and first projects.",
+      "price": 119.99,
+      "instructor": "Ava Brooks",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1542219728-d90b285ed3f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vZGVfYmVnaW5uZXJzfGVufDF8fDE2NjI3MjA5OQ&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "12",
+      "title": "Building Real-Time Applications with Node.js",
+      "slug": "real-time-apps-nodejs",
+      "description": "Learn to build real-time applications with WebSockets and Node.js.",
+      "price": 159.99,
+      "instructor": "Mia Wilson",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1602268942546-0e4f65a46d6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vZGVfcmVhbC10aW1l&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "13",
+      "title": "React and Redux",
+      "slug": "react-redux",
+      "description": "Understand state management with Redux in React applications.",
+      "price": 169.99,
+      "instructor": "Oliver Martinez",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1565163527-fc7a302e2384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHJlYWN0X3JlZHV4&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "14",
+      "title": "Microservices with Node.js",
+      "slug": "microservices-nodejs",
+      "description": "Learn to build and deploy microservices using Node.js.",
+      "price": 179.99,
+      "instructor": "Sophie Lee",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1588790935520-2f5b98f08d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG5vZGVfY29tcHV0ZXJ8ZW59fDF8fDE2NjI3MjA5OQ&ixlib=rb-1.2.1&q=80&w=400"
+    },
+    {
+      "id": "15",
+      "title": "Integrating APIs with React",
+      "slug": "integrating-apis-react",
+      "description": "Learn how to integrate third-party APIs into your React applications.",
+      "price": 139.99,
+      "instructor": "Jack Taylor",
+      "isfeatured": false,
+      "image": "https://images.unsplash.com/photo-1596703957241-4b17b7d02646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGhlbHAtcmVhY3Rpb24&ixlib=rb-1.2.1&q=80&w=400"
+    }
+  ]
+}
