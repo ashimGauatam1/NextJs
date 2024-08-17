@@ -35,7 +35,7 @@ const FeaturedCourses = () => {
             <img 
               src={course.image} 
               className="border-transparent mt-2 w-[400px] rounded-3xl object-cover" 
-              alt={course.title} 
+              alt="image"
             />
           </div> <p> {course.title}</p>
                 <p className="m-5"> {course.description}</p>
