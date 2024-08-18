@@ -27,7 +27,7 @@ const HeroSection = () => {
         </p>
         <div className="flex justify-center flex-row space-x-5">
           <Link
-            href={"/allcourses"}
+            href={"/courses"}
             className="transition duration-300 border-gray-100 border-2 rounded-3xl px-4 py-2 hover:border-green-500"
           >
             Our Courses
