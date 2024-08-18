@@ -19,7 +19,7 @@ const FeaturedCourses = () => {
     (course: Courses) => course.isfeatured
   );
   return (
-    <div className="bg-gray-800 -mt-10">
+    <div className="bg-gray-800 -mt-10 h-[1200px]">
       <h1 className="mt-5 text-teal-500 font-semibold uppercase text-center leading-8 tracking-tight">
         Featured Courses
       </h1>
@@ -29,7 +29,7 @@ const FeaturedCourses = () => {
       <div className="mt-10 text-center mb-10 ">
         <div className="m-10 grid grid-rows-4 gap-10 sm:grid-cols-2 lg:grid-cols-3 text-center justify-center">
           {featuredCourses.map((course: Courses) => (
-            <div className="justify-center">
+            <div className="justify-center" key={course.id}>
               <BackgroundGradient>
               <div className="flex items-center justify-center mb-5">
             <img 
