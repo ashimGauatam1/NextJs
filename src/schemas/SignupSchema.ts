@@ -3,7 +3,9 @@ import {z} from "zod"
 export const  SignupSchema=z.object({
     username:z
     .string()
-    .length(10,{message:"Username should be less than 10 character"}),
+    .length(10,{message:"Username should be less than 10 character"})
+    .trim()
+    ,
     email:z
     .string()
     .length(15,{message:"Email should be less than 15 character"}),
