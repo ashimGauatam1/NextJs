@@ -2,8 +2,9 @@ import { SendVericationEmail } from "@/helpers/sendVerification";
 import { dbConnect } from "@/lib/dbConnect";
 import UserModel from '@/models/User'
 import bcrypt from 'bcryptjs'
+
 export async function POST(request:Request){
-    await dbConnect();  //connect to db
+    await dbConnect();  
     try {
         const {username,email,password}=await request.json()
         const CheckingEmail=await UserModel.findOne({email})
