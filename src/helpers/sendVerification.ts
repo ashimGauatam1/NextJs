@@ -8,7 +8,6 @@ interface email{
     verifycode:string
 }
 
-
 export async function SendVericationEmail(
     username:string,
     email:string,
