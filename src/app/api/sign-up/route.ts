@@ -37,7 +37,9 @@ export async function POST(request:Request){
             user:newuser
         })
     }
+
     } catch (error) {
+        
         console.log(error)
         return Response.json({
             title:"error",
